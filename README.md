@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">👋 Hi there! I'm Isaac Da Pena</h1>
 <h3 align="center">A Full-Stack Software Engineer</h3>
 
