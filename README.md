@@ -3,15 +3,12 @@
 
 ### 🔭 About me
 
-I am a passionate software engineer and full-stack developer from the *Andrés Bello Catholic
-University*[1], with a strong focus on building innovative and high-quality software solutions. Passionate about all aspects of coding, including object-oriented programming, software architectures and design patterns. Interested in cutting-edge fields like artificial intelligence, cloud computing and DevOps methodologies.
+I am a passionate software engineer and full-stack developer from the [Andrés Bello Catholic University](https://www.ucab.edu.ve/), with a strong focus on building innovative and high-quality software solutions. Passionate about all aspects of coding, including object-oriented programming, software architectures and design patterns. Interested in cutting-edge fields like artificial intelligence, cloud computing and DevOps methodologies.
 
 ### 🚀 Current Projects
 
 I'm currently working on the following projects:
-- [OR Library](https://github.com/dapensoft) (Author & Maintainer) ─ A powerful Python library for operations research. Define, solve, and interact with mathematical models in a standardized manner across different optimization packages.
-- [Pyventus](https://github.com/mdapena/pyventus) (Maintainer) ─ An open-source Python package for event-driven
-  programming. Define, emit, and orchestrate events with ease using customizable event emitters and flexible responses.
+- [PyORlib](https://github.com/dapensoft/pyorlib) (Author & Maintainer) ─ A powerful Python library for operations research. Define, solve, and interact with mathematical models in a standardized manner across different optimization packages.
 - [Monte Carlo AI Hex Game](https://github.com/idapena/Monte-Carlo-AI-Hex-Game) (Author & Maintainer) ─ A console Hex Game implementation using C++. The game AI uses a Monte Carlo approach to randomly populate the board and measure the effectiveness of each tile.
 
 ### 🤓 What I'm Learning
@@ -35,5 +32,3 @@ Here's an overview of my skills and tools:
 You can contact me or explore additional contact methods through my LinkedIn profile, [Isaac Da Pena](https://linkedin.com/in/isaac-da-pena).
 
 <br>
-
-[1]: For more information about my university, visit <a href="https://www.ucab.edu.ve/" target="_blank">https://www.ucab.edu.ve</a>.
